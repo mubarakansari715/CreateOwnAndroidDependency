@@ -47,8 +47,8 @@ dependencies {
 
 
     //add module
-    implementation(project(":mubaraklibrary"))
+   // implementation(project(":mubaraklibrary"))
 
-   // implementation ("com.github.mubarakansari715:CreateOwnAndroidDependency:1.0.1")
+    implementation ("com.github.mubarakansari715:CreateOwnAndroidDependency:1.0.2")
 
 }
